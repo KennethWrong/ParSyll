@@ -22,6 +22,7 @@ Our main functionalities:
 ## Homepage
 This is where the user is greeted and prompted to login.
 ![alt text](misc/parsyll_homepage.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKennethWrong%2FParSyll.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKennethWrong%2FParSyll?ref=badge_shield)
 
 ## Course Dashboard
 This is a preview of the Dashboard that the user will have once they have populated the dashboard.
@@ -30,3 +31,7 @@ This is a preview of the Dashboard that the user will have once they have popula
 ## PDF drop zone
 This is a preview of where the user can drop their pdf for parsing.
 ![alt text](misc/parsyll_parse_pdf.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKennethWrong%2FParSyll.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKennethWrong%2FParSyll?ref=badge_large)
